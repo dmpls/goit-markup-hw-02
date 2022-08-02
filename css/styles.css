@@ -161,6 +161,9 @@ body{
 }
 
 /* footer */
+.address{
+    font-style: normal;
+}
 .page-footer{
     background-color: var(--hero-footer-background-color);
 }
